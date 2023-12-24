@@ -8,7 +8,7 @@ import androidx.compose.ui.viewinterop.AndroidView
 
 @Composable
 fun AndroidViewRatingBar(
-    modifier: Modifier,
+    modifier: Modifier = Modifier,
     rating: Float,
     isSmall: Boolean = false,
     changable: Boolean = true
