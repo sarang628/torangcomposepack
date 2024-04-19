@@ -6,6 +6,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.viewinterop.AndroidView
 
+/*
 @Composable
 fun AndroidViewRatingBar(
     modifier: Modifier = Modifier,
@@ -43,9 +44,11 @@ fun AndroidViewRatingBar(
         }
     )
 }
+*/
 
+/*
 @Preview
 @Composable
 fun PreviewAndroidViewRatingBar() {
     AndroidViewRatingBar(Modifier, 3.2f, isSmall = true, changable = false)
-}
+}*/
